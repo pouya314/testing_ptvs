@@ -24,6 +24,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="arrow_sample.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="scraping_pycon.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="splinter_sample.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PythonApplication2.py" />
   </ItemGroup>
   <ItemGroup>
