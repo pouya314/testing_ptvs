@@ -16,9 +16,7 @@ def prompt_name():
 def say_hello():
     name_of_user = str(request.form['username']).capitalize()
     greeting = 'How are you doing today mate?'
-    return render_template('greeting.html', 
-                           name_of_user=name_of_user, 
-                           greeting=greeting)
+    return render_template('greeting.html', name_of_user=name_of_user, greeting=greeting)
 
 
 if __name__ == '__main__':
