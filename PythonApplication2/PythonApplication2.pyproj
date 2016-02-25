@@ -27,6 +27,12 @@
     <Compile Include="arrow_sample.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="zmqclient.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="zmqserver.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="scraping_pycon.py">
       <SubType>Code</SubType>
     </Compile>
