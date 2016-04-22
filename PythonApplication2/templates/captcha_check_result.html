@@ -6,9 +6,12 @@
     <title></title>
 </head>
 <body>
-    <h2>
-        <a href="{{ url_for('prompt_name') }}">greeting link</a>
-    </h2>
-    <a href="{{ url_for('show_captcha') }}">Go to captcha page -></a>
+    {% if captcha_passed %}
+        passed.
+    {% else %}
+        failed!
+    {% endif %}
+    <br />
+    <a href="{{ url_for('homepage') }}">Home</a>
 </body>
 </html>
