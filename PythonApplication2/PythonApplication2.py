@@ -7,6 +7,7 @@ import pymongo
 app = Flask(__name__)
 app.secret_key = '13d2d83e-43b1-4055-a993-0ee84ebc1eba'
 
+# mongo db settings
 from pymongo import MongoClient
 client = MongoClient()
 db = client['test-database']
@@ -71,4 +72,4 @@ def check_captcha():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False) # set to false for VS debugger to work.
