@@ -18,7 +18,7 @@ def find_shortest_string_in_list(words):
     return shortest
 
 
-def common_prefix(words):
+def find_common_prefix_between(words):
     if '' in words:
         return ''
     shortest = find_shortest_string_in_list(words)
