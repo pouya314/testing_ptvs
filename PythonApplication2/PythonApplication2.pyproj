@@ -33,10 +33,19 @@
     <Compile Include="captcha_sample.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="common_prefix.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="extract_dependencies.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="kivy_test.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="mongo_sample.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="common_prefix_test.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="zmqclient.py">
