@@ -12,5 +12,5 @@ links.pop()
 
 f = open('sponsors.txt','w')
 for link in links:
-    f.write(link+'\n')
+    f.write(link + '\n')
 f.close()
