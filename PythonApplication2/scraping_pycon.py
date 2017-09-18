@@ -1,7 +1,7 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
 
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 driver.get("http://2015.pycon-au.org/")
 html_string = driver.page_source
 driver.close()
