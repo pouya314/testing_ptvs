@@ -1,0 +1,40 @@
+# Python mixins
+http://code.activestate.com/recipes/577824-mixins-by-inheritance-vs-by-decoratorlets-try-deco/
+
+
+# Python dynamic instantiation from string name of a class
+https://stackoverflow.com/questions/4821104/python-dynamic-instantiation-from-string-name-of-a-class-in-dynamically-imported
+
+
+# Python Encryption
+http://docs.python-guide.org/en/latest/scenarios/crypto/
+
+
+# Timer in Python
+https://stackoverflow.com/questions/18406165/creating-a-timer-in-python
+
+
+# Python DB ORM
+http://docs.peewee-orm.com/en/latest/index.html
+
+
+# Loading SQLite in Python distribution
+https://stackoverflow.com/questions/25270817/loading-sqlite-database-in-python-distribution
+
+
+# Python copy/paste clipboard
+https://stackoverflow.com/questions/11063458/python-script-to-copy-text-to-clipboard
+https://github.com/kennethreitz/xerox
+
+
+# Choose directory dialog
+https://pastebin.com/tTRd6d5K
+
+
+# Command Line UI
+http://urwid.org/examples/index.html
+https://stackoverflow.com/questions/6840420/python-rewrite-multiple-lines-in-the-console
+
+
+# Command Line Interface
+https://pastebin.com/jZrGf9na
