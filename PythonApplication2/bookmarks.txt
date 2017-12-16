@@ -42,3 +42,7 @@ https://stackoverflow.com/questions/6840420/python-rewrite-multiple-lines-in-the
 
 # Command Line Interface
 https://pastebin.com/jZrGf9na
+
+
+# Python design patterns
+https://www.toptal.com/python/python-design-patterns
