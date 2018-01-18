@@ -56,10 +56,6 @@ https://pastebin.com/hvYqQfjP
 https://pastebin.com/ZfZUxdEg
 
 
-# Useful IDE extension
-https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools
-
-
 # Intro to Heroku buildpacks
 https://www.petekeen.net/introduction-to-heroku-buildpacks
 
