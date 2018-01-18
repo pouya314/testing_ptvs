@@ -46,3 +46,23 @@ https://pastebin.com/jZrGf9na
 
 # Python design patterns
 https://www.toptal.com/python/python-design-patterns
+
+
+# Concurrency Example
+https://pastebin.com/hvYqQfjP
+
+
+# Sequence chunker
+https://pastebin.com/ZfZUxdEg
+
+
+# Useful IDE extension
+https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools
+
+
+# Intro to Heroku buildpacks
+https://www.petekeen.net/introduction-to-heroku-buildpacks
+
+
+# Download file over HTTP
+https://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
