@@ -56,13 +56,14 @@ https://pastebin.com/hvYqQfjP
 https://pastebin.com/ZfZUxdEg
 
 
-# Useful IDE extension
-https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools
-
-
 # Intro to Heroku buildpacks
 https://www.petekeen.net/introduction-to-heroku-buildpacks
 
 
 # Download file over HTTP
 https://stackoverflow.com/questions/22676/how-do-i-download-a-file-over-http-using-python
+
+
+# pywebview
+https://pypi.python.org/pypi/pywebview/
+https://joecodeswell.wordpress.com/2016/08/09/flask-with-pywebview-example/
