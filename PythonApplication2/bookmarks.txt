@@ -83,3 +83,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
 
 # Toy Robot Problem
 http://webgeek.selenasmall.com/toy-robot/
+
+
+# Python HTML Generator
+http://karrigell.sourceforge.net/en/htmltags.html
