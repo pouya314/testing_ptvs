@@ -87,3 +87,26 @@ http://webgeek.selenasmall.com/toy-robot/
 
 # Python HTML Generator
 http://karrigell.sourceforge.net/en/htmltags.html
+
+
+# Useful JQuery plugins (ajaxform and blockUI):
+http://jquery.malsup.com/
+
+
+# Python copy to clipboard
+import pyperclip
+pyperclip.copy('The text to be copied to the clipboard.')
+spam = pyperclip.paste()
+https://stackoverflow.com/questions/11063458/python-script-to-copy-text-to-clipboard?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+
+# Ubelt - useful python utils
+https://github.com/Erotemic/ubelt
+
+# PDF file optimizer
+https://github.com/pts/pdfsizeopt
+
+# Python run things in the background
+https://github.com/kennethreitz/background
+
+
